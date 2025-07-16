@@ -8,7 +8,7 @@ This project showcases clean UI/UX design, language switching (Persian/English),
 
 ## 🔍 Live Demo
 
-👉 [Click here to view the live demo]([https://your-demo-url.netlify.app](https://tdmxhoko.github.io/Portfolio-UI-2025/))
+👉 [Click here to view the live demo](https://tdmxhoko.github.io/Portfolio-UI-2025/)
 
 ---
 
